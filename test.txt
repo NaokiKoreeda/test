@@ -3,6 +3,3 @@ aaaaaaaaaaaa
 bbbbbbbbbbbb
 
 cccccccccccc
-
-
-fuga
